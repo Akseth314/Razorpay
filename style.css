@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.shape-bg {
+    background-color: #02042a; /* Replace with your desired color value */
+}
